@@ -1,0 +1,15 @@
+[project]
+name = "mlb-love"
+version = "0.1.0"
+description = "Simple Explanation about Major League Baseball"
+authors = [
+    {name = "rim01", email = "kylttop01@gmail.com"},
+]
+dependencies = []
+requires-python = ">=3.7"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
