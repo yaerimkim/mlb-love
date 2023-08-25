@@ -1,6 +1,6 @@
 [project]
 name = "mlb-love"
-version = "0.1.0"
+version = "0.2.0"
 description = "Simple Explanation about Major League Baseball"
 authors = [
     {name = "rim01", email = "kylttop01@gmail.com"},
